@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/valogus/valogus/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/valogus/valogus/output/snake.svg" alt="Snake animation" />
 
 ###
 
